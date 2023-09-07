@@ -4,18 +4,25 @@
   "description": "This is the mern chat full responsive build with mern tool ",
   "main": "index.js",
   "scripts": {
-    "start": "node backend/server.js"
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js",
+    "build": "npm install --legacy-peer-deps && npm install --legacy-peer-deps --prefix frontend && npm run build --prefix frontend"
   },
+  "keywords": [
+    "mern",
+    "chat-app"
+  ],
   "author": "Rohit Gupta",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.7.5",
+    "mongoose": "^6.12.0",
+    "nodemon": "^3.0.1",
     "socket.io": "^4.5.4"
   }
 }
