@@ -1,12 +1,18 @@
 MernChat App
 
-* Some of the functionalities found in this app includes:
-  
-• SignIn and SignUp with image upload functionality for profile.
-• Search users,Showing notification & Showing typing.
-• One to One Chat,Group Chat, Add or Remove users from group with JWT Authentication
-• Frontend:ReactJS Backend:ExpressJs Style:Chakra UI.
-• Database: MongoDB, Atlas Routing :- React Router Dom V6.
+Our app offers some great features:
+
+Sign In and Sign Up: Easily create an account and add a profile picture.
+
+Connect with Others: Find users, get notifications, and see when someone is typing.
+
+Chat Options: Chat one-on-one or in groups. You can also add or remove people from group chats. We use JWT Authentication to keep things secure.
+
+Technology Used: We've used ReactJS for the frontend, ExpressJs for the backend, and styled everything with the user-friendly Chakra UI library.
+
+Data Management: We store data in MongoDB with Atlas for reliable access.
+
+Easy Navigation: Move around the app smoothly thanks to React Router Dom V6.
 
 
 ![ss1](https://github.com/RohitGupta1235/ChatApp/assets/94480941/4a8f09e1-7cb9-433a-859c-10294bc0aed7)
