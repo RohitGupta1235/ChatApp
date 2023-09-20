@@ -1,6 +1,7 @@
 MernChat App
 
 * Some of the functionalities found in this app includes:
+  
 • SignIn and SignUp with image upload functionality for profile.
 • Search users,Showing notification & Showing typing.
 • One to One Chat,Group Chat, Add or Remove users from group with JWT Authentication
