@@ -10,12 +10,17 @@ MernChat App is a real-time chat application built with the MERN stack (MongoDB,
  &nbsp;&nbsp;&nbsp;&nbsp;6.JWT Authentication: We use JWT Authentication to keep things secure.<br/>
 
 # Screeshots
+Login
+![ssloginnew](https://github.com/RohitGupta1235/ChatApp/assets/94480941/ebc9087c-0ec4-4123-9f83-23f47e8927b4)
 
-
-
-![ss1](https://github.com/RohitGupta1235/ChatApp/assets/94480941/4a8f09e1-7cb9-433a-859c-10294bc0aed7)
+Signup
 ![ss2](https://github.com/RohitGupta1235/ChatApp/assets/94480941/cd7ba518-5c84-47ab-8322-0a7ec40923d5)
+
+Profile
 ![ss3](https://github.com/RohitGupta1235/ChatApp/assets/94480941/1f22dbf1-5917-4142-95e8-11bb22d06d04)
+
+Search Users
 ![ss4](https://github.com/RohitGupta1235/ChatApp/assets/94480941/c95dcd24-6a28-466e-875c-edfd73c824b0)
-![ss5](https://github.com/RohitGupta1235/ChatApp/assets/94480941/8a21a831-c637-4f93-9813-5762ca2f508c)
+
+One-One Chat
 ![ss6](https://github.com/RohitGupta1235/ChatApp/assets/94480941/9be31498-a885-45dd-98e7-f69000118433)
