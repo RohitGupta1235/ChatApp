@@ -9,7 +9,7 @@ MernChat App is a real-time chat application built with the MERN stack (MongoDB,
  5.Easy Navigation: Move around the app smoothly thanks to React Router Dom V6.<br/>
  6.JWT Authentication: We use JWT Authentication to keep things secure.<br/>
 
-#Screeshots
+# Screeshots
 
 
 
