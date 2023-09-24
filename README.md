@@ -1,51 +1,24 @@
 
 ## MernChat App
+MernChat App is a real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js) and Socket.IO. It offers the following features:
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .feature {
-    margin: 10px 0;
-  }
-</style>
-</head>
-<body>
+1. **Sign In and Sign Up**
+   - Easily create an account and add a profile picture.
 
-<h1>MernChat App Features</h1>
+2. **Connect with Others**
+   - Find users, get notifications, and see when someone is typing.
 
-<div class="feature">
-  <h3>1. Sign In and Sign Up</h3>
-  <p>Easily create an account and add a profile picture.</p>
-</div>
+3. **Chat Options**
+   - Chat one-on-one or in groups. You can also add or remove people from group chats.
 
-<div class="feature">
-  <h3>2. Connect with Others</h3>
-  <p>Find users, get notifications, and see when someone is typing.</p>
-</div>
+4. **Data Management**
+   - We store data in MongoDB with Atlas for reliable access.
 
-<div class="feature">
-  <h3>3. Chat Options</h3>
-  <p>Chat one-on-one or in groups. You can also add or remove people from group chats.</p>
-</div>
+5. **Easy Navigation**
+   - Move around the app smoothly thanks to React Router Dom V6.
 
-<div class="feature">
-  <h3>4. Data Management</h3>
-  <p>We store data in MongoDB with Atlas for reliable access.</p>
-</div>
-
-<div class="feature">
-  <h3>5. Easy Navigation</h3>
-  <p>Move around the app smoothly thanks to React Router Dom V6.</p>
-</div>
-
-<div class="feature">
-  <h3>6. JWT Authentication</h3>
-  <p>We use JWT Authentication to keep things secure.</p>
-</div>
-
-</body>
-</html>
+6. **JWT Authentication**
+   - We use JWT Authentication to keep things secure.
 
 
 # Screenshots
