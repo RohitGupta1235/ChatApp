@@ -1,5 +1,5 @@
 
-## MernChat App
+### MernChat App
 MernChat App is a real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js) and Socket.IO. It offers the following features:
 
 1. **Sign In and Sign Up**
