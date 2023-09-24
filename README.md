@@ -1,19 +1,17 @@
 
 # MernChat App
 
-Our app offers some great features:
+MernChat App is a real-time chat application built with the MERN stack (MongoDB, Express.js, React.js, and Node.js) and Socket.IO. It offers the following features:
 
-Sign In and Sign Up: Easily create an account and add a profile picture.
+ 1.Sign In and Sign Up: Easily create an account and add a profile picture.
+ 2.Connect with Others: Find users, get notifications, and see when someone is typing.
+ 3.Chat Options: Chat one-on-one or in groups. You can also add or remove people from group chats.
+ 4.Data Management: We store data in MongoDB with Atlas for reliable access.
+ 5.Easy Navigation: Move around the app smoothly thanks to React Router Dom V6.
+ 6.JWT Authentication: We use JWT Authentication to keep things secure.
 
-Connect with Others: Find users, get notifications, and see when someone is typing.
+#ScreenShot
 
-Chat Options: Chat one-on-one or in groups. You can also add or remove people from group chats. We use JWT Authentication to keep things secure.
-
-Technology Used: We've used ReactJS for the frontend, ExpressJs for the backend, and styled everything with the user-friendly Chakra UI library.
-
-Data Management: We store data in MongoDB with Atlas for reliable access.
-
-Easy Navigation: Move around the app smoothly thanks to React Router Dom V6.
 
 
 ![ss1](https://github.com/RohitGupta1235/ChatApp/assets/94480941/4a8f09e1-7cb9-433a-859c-10294bc0aed7)
