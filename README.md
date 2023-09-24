@@ -1,4 +1,5 @@
-MernChat App
+
+# MernChat App
 
 Our app offers some great features:
 
